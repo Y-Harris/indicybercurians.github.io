@@ -1,0 +1,1 @@
+Solve this Flag, go to the folder that says "Flag1" and click to run the Easy_Flag.exe to sovle the flag.
